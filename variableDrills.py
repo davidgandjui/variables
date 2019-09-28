@@ -52,10 +52,10 @@ print(d)
 name = "David"
 print(name)
 #12) Make a variable called e that is set to the first letter of your name. And print the variable.
-e = "D"
+e = name[0]
 print(e)
 #13) Make a variable called f that is set to the last letter of your name. And print the variable.
-f = "d"
+f = name[4]
 print(f)
 #14) Make a variable called g that is set to "chicken". And print the variable.
 g = "chicken"
